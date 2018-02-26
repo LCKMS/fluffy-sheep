@@ -1,0 +1,29 @@
+body {
+    height: 100%;
+/*
+    background-color: Enter colour here;
+*/
+    margin: 0;
+}
+h1 {
+/*
+  color: Enter colour here;
+*/
+  text-align: center;
+  font-family: 'Product Sans', serif;
+  font-size: 300%;
+}
+h2 {
+/*
+  color: Enter colour here;
+*/
+  text-align: center ;
+  font-family: 'Product Sans', serif;
+}
+h3, h4 {
+/* 
+  color: Enter colour here;
+*/
+  text-align: left ;
+  font-family: 'Product Sans', serif;
+}
