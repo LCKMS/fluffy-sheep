@@ -1,6 +1,5 @@
 # fluffy-sheep
-## By LCKMS
-This is the first repository, which aims to show people how fluffy sheep can be
+This is the first repository by LCKMS, which aims to show people how fluffy sheep can be!
 ## Areas to Contribute
 * General Design
 * Animations for the fluffy sheep
